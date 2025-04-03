@@ -1,0 +1,40 @@
+
+.homepage,.footer{
+    height: 650px;
+    width: 100%;
+    background: #C04848;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+   
+}
+   
+button{
+    height: 40px;
+    width: 150px;
+    margin-left: 70px;
+    margin-top: 5px;
+    border-radius: 15px
+}
+#mark{
+    background-color: lightgray;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 5px;
+}
+.Features{
+    margin: 20px;
+    
+
+}
+span{
+    text-align: center;
+}
+.profile{
+    margin:30px ;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
